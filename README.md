@@ -1,6 +1,6 @@
 # Sala de Aula Inteligente
 
-![Sala de Aula Inteligente](link_para_imagem)
+![Sala de Aula Inteligente](https://github.com/MateusLucasDaSilva/Projeto_Arduino/assets/101568163/9740c249-f2f9-4d1d-878b-2a1791db4acd)
 
 ## Descrição
 
