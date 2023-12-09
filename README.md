@@ -35,7 +35,7 @@ A Sala de Aula Inteligente não é apenas uma demonstração de avanços tecnol�
 ## Instalação
 
 1. Clone o repositório: `git clone https://github.com/MateusLucasDaSilva/Projeto_Arduino.git`
-2. Abra o arquivo principal: `index.html`
+
 
 ## Conclusão e Aprendizado
 
