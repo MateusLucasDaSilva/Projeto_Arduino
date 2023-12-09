@@ -45,6 +45,5 @@ Este projeto não apenas demonstra o que aprendemos no IFBA, mas também represe
 
 ---
 
-**Nota:** Substitua `link_para_imagem` pelo URL da imagem representativa do projeto.
 
 
