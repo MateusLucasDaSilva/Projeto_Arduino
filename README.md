@@ -20,7 +20,7 @@ O projeto "Sala de Aula Inteligente" foi desenvolvido durante a Semana de Ciênc
 
 ## Instalação
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/sala-de-aula-inteligente.git`
+1. Clone o repositório: `git clone https://github.com/MateusLucasDaSilva/Projeto_Arduino.git`
 2. Abra o arquivo principal: `index.html`
 
 ## Conclusão e Aprendizado
@@ -33,4 +33,4 @@ Este projeto não apenas demonstra o que aprendemos no IFBA, mas também represe
 
 **Nota:** Substitua `link_para_imagem` pelo URL da imagem representativa do projeto.
 
-Espero que este README.md atenda às suas expectativas. Se precisar de mais alguma alteração ou adição, sinta-se à vontade para solicitar!
+
