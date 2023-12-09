@@ -14,9 +14,23 @@ O projeto "Sala de Aula Inteligente" foi desenvolvido durante a Semana de Ciênc
 
 - **Contador de Presença:**
   - Um sensor de luz na porta identifica a passagem de alunos, registrando a presença na sala.
+  - As luzes são apagadas automaticamente quando todos os alunos saem da sala.
 
 - **Jardim Automatizado:**
-  - O jardim externo é mantido sempre úmido, pois é irrigado automaticamente quando o solo fica seco.
+  - O jardim externo é mantido sempre úmido, sendo irrigado automaticamente quando o solo fica seco.
+
+## Sustentabilidade e Benefícios
+
+A Sala de Aula Inteligente não é apenas uma demonstração de avanços tecnológicos, mas também um projeto comprometido com a sustentabilidade. As características automatizadas contribuem significativamente para a eficiência energética e o bem-estar dos usuários:
+
+- **Economia de Energia:**
+  - As luzes são apagadas automaticamente quando a sala está vazia, reduzindo o consumo de energia.
+
+- **Ambiente Saudável:**
+  - O jardim externo, mantido sempre verde, contribui para a qualidade do ar e cria um ambiente mais agradável para os alunos.
+
+- **Consciência Ambiental:**
+  - Ao integrar tecnologia para responder às condições ambientais, o projeto promove a conscientização sobre o uso eficiente dos recursos e a importância da sustentabilidade.
 
 ## Instalação
 
